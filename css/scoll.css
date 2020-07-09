@@ -1,0 +1,19 @@
+.wrap {
+    width: 100%;
+    height: 100%;
+    overflow: hidden
+}
+
+.wrap2 {
+    width: 100%;
+    height: 1000%;
+    transition: .3s linear
+}
+
+.page {
+    width: 100%;
+    height: 10%;
+    background-color: #fdfdfd;
+    text-align: center;
+    background: url("../images/bj.gif") repeat;
+}

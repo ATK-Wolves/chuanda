@@ -1,0 +1,16 @@
+@keyframes text {
+    from {
+        left: 100vw;
+    }
+    to {
+        left: 0;
+    }
+}
+@keyframes image {
+    from {
+        right: 100vw;
+    }
+    to {
+        right: 0;
+    }
+}
